@@ -7,4 +7,5 @@ See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Co
 ## Content
 - ### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/1.%20Introduction%20to%20TensorFlow)
   * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/1.%20Introduction%20to%20TensorFlow/Week1): A New Programming Paradigm
-  
+  * [Week 2](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/1.%20Introduction%20to%20TensorFlow/Week2): Introduction to Computer Vision
+  * [Week 3](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/1.%20Introduction%20to%20TensorFlow/Week3): Enhancing Vision with Convolutional Neural Networks
