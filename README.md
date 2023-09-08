@@ -20,3 +20,4 @@ See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Co
 - ### [Convolutional Neural Networks in TensorFlow](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/2.%20Convolutional%20Neural%20Networks)
   * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/2.%20Convolutional%20Neural%20Networks/Week1): Exploring a Larger Dataset
   * [Week 2](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/2.%20Convolutional%20Neural%20Networks/Week2): Augmentation: A technique to avoid overfitting
+  * [Week 3](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/2.%20Convolutional%20Neural%20Networks/Week3): Transfer Learning
