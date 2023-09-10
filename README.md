@@ -21,3 +21,9 @@ See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Co
   * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/2.%20Convolutional%20Neural%20Networks/Week1): Exploring a Larger Dataset
   * [Week 2](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/2.%20Convolutional%20Neural%20Networks/Week2): Augmentation: A technique to avoid overfitting
   * [Week 3](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/2.%20Convolutional%20Neural%20Networks/Week3): Transfer Learning
+  * [Week 4](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/2.%20Convolutional%20Neural%20Networks/Week4): Multiclass Classifications
+
+<details>
+      <summary>Show Certificate</summary>
+           <img src="https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/assets/80858788/2419f77a-51b4-4d12-98f1-e055c56844a5" alt="TensorFlow C2 Certificate">
+</details>
