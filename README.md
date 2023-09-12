@@ -27,3 +27,7 @@ See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Co
       <summary>Show Certificate</summary>
            <img src="https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/assets/80858788/2419f77a-51b4-4d12-98f1-e055c56844a5" alt="TensorFlow C2 Certificate">
 </details>
+
+  - ---
+- ### [Natural Language Processing in TensorFlow](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing)
+  * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing/Week1): Sentiment in text
