@@ -31,3 +31,5 @@ See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Co
   - ---
 - ### [Natural Language Processing in TensorFlow](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing)
   * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing/Week1): Sentiment in text
+  * [Week 2](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing/Week2): Word Embeddings
+  * [Week 3](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing/Week3): Sequence models
