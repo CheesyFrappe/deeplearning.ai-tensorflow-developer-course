@@ -33,3 +33,12 @@ See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Co
   * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing/Week1): Sentiment in text
   * [Week 2](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing/Week2): Word Embeddings
   * [Week 3](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing/Week3): Sequence models
+  * [Week 4](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/3.%20Natural%20Language%20Processing/Week4): Sequence models and literature
+
+<details>
+      <summary>Show Certificate</summary>
+           <img src="https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/assets/80858788/db404ab2-8a86-4f70-8996-f50403522c00" alt="TensorFlow C3 Certificate">
+</details>
+
+  - ---
+
