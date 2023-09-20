@@ -41,4 +41,7 @@ See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Co
 </details>
 
   - ---
-
+- ### [Sequences, Time Series and Prediction](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction)
+  * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week1): Sequences and Prediction
+  * [Week 2](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week2): Deep Neural Networks for Time Series
+ 
