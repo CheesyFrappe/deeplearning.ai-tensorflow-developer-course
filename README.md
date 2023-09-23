@@ -4,6 +4,9 @@ Contains assignment answers and exercises from all courses in the Coursera [Tens
 
 See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US)</i> before taking a look at the answers.
 
+![DeepLearning AI TensorFlow Developer](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/assets/80858788/0600b40a-d068-4e3a-930c-bebb4252985b)
+
+
 ## Content
 - ### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/1.%20Introduction%20to%20TensorFlow)
   * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/1.%20Introduction%20to%20TensorFlow/Week1): A New Programming Paradigm
@@ -44,4 +47,12 @@ See <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Co
 - ### [Sequences, Time Series and Prediction](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction)
   * [Week 1](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week1): Sequences and Prediction
   * [Week 2](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week2): Deep Neural Networks for Time Series
+  * [Week 3](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week3): Recurrent Neural Network for Time Series
+  * [Week 4](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/tree/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week4): Real-world time series data
+
+ <details>
+      <summary>Show Certificate</summary>
+           <img src="https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course/assets/80858788/4c941293-6583-45aa-9f8a-de8528557121" alt="TensorFlow C4 Certificate">
+</details>
+    
  
